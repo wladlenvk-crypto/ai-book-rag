@@ -1,4 +1,4 @@
-name: Upload Book to Supabase
+name: Upload Book (OpenAI) to Supabase
 on: [workflow_dispatch] # Запуск только вручную кнопкой
 
 jobs:
